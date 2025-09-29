@@ -7,6 +7,8 @@
 
 캘리브레이션: 하드아이언( Hard-iron ), 소프트아이언( Soft-iron ) 보정 적용
 
+입력 : 'Mag_X', 'Mag_Y', 'Mag_Z', 'Ori_X', 'Ori_Y', 'Ori_Z' (6개)
+
 은닉층 구조: 64 → 64
 
 활성화 함수: ReLU
